@@ -1,0 +1,251 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.838);
+}
+
+h1 {
+    background-color: rgb(196, 147, 24);
+    color: white;
+    margin: 0;
+    padding: 10px;
+    border-bottom: 3px solid rgb(255, 255, 255);
+}
+
+.main-box {
+    width: 510px;
+    height: 510px;
+    background-color: #d62d24;
+    position: relative;
+    top: 66px;
+    left: 500px;
+}
+
+.one {
+    width: 125px;
+    height: 55px;
+    background-color: #e5eeeb;
+    position: absolute;
+    top: 125px;
+    left: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 10px 0;
+}
+
+.two {
+    width: 212px;
+    height: 55px;
+    background-color: #f2e7d5;
+    position: absolute;
+    top: 125px;
+    left: 634px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 10px 0;
+}
+
+.three {
+    width: 125px;
+    height: 54px;
+    background-color: #f2c968;
+    position: absolute;
+    top: 125px;
+    left: 855px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 10px 0;
+}
+
+.four {
+    width: 70px;
+    height: 125px;
+    background-color: #fbfde7;
+    position: absolute;
+    top: 189px;
+    left: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 10px 0;
+}
+
+.five {
+    width: 70px;
+    height: 125px;
+    background-color: #f4c65a;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.six {
+    width: 70px;
+    height: 176px;
+    background-color: #e1eae5;
+    position: absolute;
+    top: 324px;
+    left: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 0 0;
+}
+
+.seven {
+    width: 125px;
+    height: 55px;
+    background-color: #e3ded9;
+    position: absolute;
+    top: 570px;
+    left: 580px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.eight {
+    width: 266px;
+    height: 20px;
+    background-color: #e3ded9;
+    position: absolute;
+    top: 605px;
+    left: 714px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 0 0 0;
+}
+
+.nine {
+    width: 21px;
+    height: 110px;
+    background-color: #d73630;
+    position: absolute;
+    top: 515px;
+    left: 980px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 0 0 10px;
+}
+
+.ten {
+    width: 125px;
+    height: 125px;
+    background-color: #130409;
+    position: absolute;
+    top: 436px;
+    left: 580px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.eleven {
+    width: 133px;
+    height: 25px;
+    background-color: #0b0205;
+    position: absolute;
+    top: 570px;
+    left: 714px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 0 0 0;
+}
+
+.twelve {
+    width: 123px;
+    height: 80px;
+    background-color: #241785;
+    position: absolute;
+    top: 515px;
+    left: 847px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 0 0 10px;
+}
+
+.thirteen {
+    width: 133px;
+    height: 46px;
+    background-color: #dee2d4;
+    position: absolute;
+    top: 515px;
+    left: 714px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 0 0 0;
+}
+
+.fourteen {
+    width: 133px;
+    height: 70px;
+    background-color: #c0bfba;
+    position: absolute;
+    top: 436px;
+    left: 714px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.fifeteen {
+    width: 123px;
+    height: 70px;
+    background-color: #d6dee0;
+    position: absolute;
+    top: 436px;
+    left: 857px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.sixteen {
+    width: 123px;
+    height: 114px;
+    background-color: #f2c968;
+    position: absolute;
+    top: 189px;
+    left: 847px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 10px 0 10px;
+}
+
+.seventeen {
+    width: 57px;
+    height: 123px;
+    background-color: #dfe5d0;
+    position: absolute;
+    top: 303px;
+    left: 847px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 10px;
+}
+
+.eighteen {
+    width: 57px;
+    height: 123px;
+    background-color: #f2eee2;
+    position: absolute;
+    top: 303px;
+    left: 923px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px 10px 0 0;
+}
+
+.nineteen {
+    width: 21px;
+    height: 390px;
+    background-color: #fcfde7;
+    position: absolute;
+    top: 125px;
+    left: 989px;
+}
